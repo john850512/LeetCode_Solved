@@ -2,9 +2,9 @@
 
 ## Problem Sets
 
-| No. | Code |
-|-- | -- | 
-001 |[Two Sum](https://github.com/john850512/LeetCode_Solved/blob/master/001.%20Two%20Sum.md)
+| Problem No. | Code Links |
+|:--: | :--: | 
+001 |   [Two Sum](https://github.com/john850512/LeetCode_Solved/blob/master/001.%20Two%20Sum.md)
 002 |[Add Two Numbers](https://github.com/john850512/LeetCode_Solved/blob/master/002.%20Add%20Two%20Numbers.md)
 003 |[Longest Substring Without Repeating Characters](https://github.com/john850512/LeetCode_Solved/blob/master/003.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 005 |[Longest Palindromic Substring](https://github.com/john850512/LeetCode_Solved/blob/master/005.%20Longest%20Palindromic%20Substring.md)
