@@ -13,4 +13,8 @@
 008 |[String to Integer (atoi)](https://github.com/john850512/LeetCode_Solved/blob/master/008.%20String%20to%20Integer%20(atoi).md)
 009 |[Palindrome Number](https://github.com/john850512/LeetCode_Solved/blob/master/009.%20Palindrome%20Number.md)
 011 |[Container With Most Water](https://github.com/john850512/LeetCode_Solved/blob/master/011.%20Container%20With%20Most%20Water.md)
-
+012 |[Integer to Roman](https://github.com/john850512/LeetCode_Solved/blob/master/012.%20Integer%20to%20Roman.md)
+013 |[Roman to Integer](https://github.com/john850512/LeetCode_Solved/blob/master/013.%20Roman%20to%20Integer.md)
+014 |[Longest Common Prefix](https://github.com/john850512/LeetCode_Solved/blob/master/014.%20Longest%20Common%20Prefix.md)
+015 |[3Sum](https://github.com/john850512/LeetCode_Solved/blob/master/015.%203Sum.md)
+016 |[3Sum Closest](https://github.com/john850512/LeetCode_Solved/blob/master/016.%203Sum%20Closest.md)
