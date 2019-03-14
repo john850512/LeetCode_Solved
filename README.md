@@ -18,3 +18,7 @@
 014 |[Longest Common Prefix](https://github.com/john850512/LeetCode_Solved/blob/master/014.%20Longest%20Common%20Prefix.md)
 015 |[3Sum](https://github.com/john850512/LeetCode_Solved/blob/master/015.%203Sum.md)
 016 |[3Sum Closest](https://github.com/john850512/LeetCode_Solved/blob/master/016.%203Sum%20Closest.md)
+017 |[Letter Combinations of a Phone Number](https://github.com/john850512/LeetCode_Solved/blob/master/017.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
+018 |[4Sum](https://github.com/john850512/LeetCode_Solved/blob/master/018.%204Sum.md)
+019 |[Remove Nth Node From End of List](https://github.com/john850512/LeetCode_Solved/blob/master/019.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
+020 |[Valid Parentheses](https://github.com/john850512/LeetCode_Solved/blob/master/020.%20Valid%20Parentheses.md)
