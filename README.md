@@ -1,5 +1,4 @@
 # LeetCode_Solved
-
 ## Problem Sets
 
 | Problem No. | Code Links |
@@ -32,9 +31,13 @@
 090 |[Subsets II](https://github.com/john850512/LeetCode_Solved/blob/master/090.%20Subsets%20II.md)
 094 |[Binary Tree Inorder Traversal](https://github.com/john850512/LeetCode_Solved/blob/master/094.%20Binary%20Tree%20Inorder%20Traversal.md)
 098 |[Validate Binary Search Tree](https://github.com/john850512/LeetCode_Solved/blob/master/098.%20Validate%20Binary%20Search%20Tree.md)
+191 |[Number of 1 Bits](https://github.com/john850512/LeetCode_Solved/blob/master/191.%20Number%20of%201%20Bits.md)
 216 |[Combination Sum III](https://github.com/john850512/LeetCode_Solved/blob/master/216.%20Combination%20Sum%20III.md)
 230 |[Kth Smallest Element in a BST](https://github.com/john850512/LeetCode_Solved/blob/master/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
+401 |[Binary Watch](https://github.com/john850512/LeetCode_Solved/blob/master/401.%20Binary%20Watch.md)
 450 |[Delete Node in a BST](https://github.com/john850512/LeetCode_Solved/blob/master/450.%20Delete%20Node%20in%20a%20BST.md)
+461 |[Hamming Distance](https://github.com/john850512/LeetCode_Solved/blob/master/461.%20Hamming%20Distance.md)
+477 |[Total Hamming Distance](https://github.com/john850512/LeetCode_Solved/blob/master/477.%20Total%20Hamming%20Distance.md)
 530 |[Minimum Absolute Difference in BST](https://github.com/john850512/LeetCode_Solved/blob/master/530.%20Minimum%20Absolute%20Difference%20in%20BST.md)
 589 |[N-ary Tree Preorder Traversal](https://github.com/john850512/LeetCode_Solved/blob/master/589.%20N-ary%20Tree%20Preorder%20Traversal.md)
 590 |[N-ary Tree Postorder Traversal](https://github.com/john850512/LeetCode_Solved/blob/master/590.%20N-ary%20Tree%20Postorder%20Traversal.md)
@@ -42,4 +45,9 @@
 701 |[Insert into a Binary Search Tree](https://github.com/john850512/LeetCode_Solved/blob/master/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)
 709 |[To Lower Case](https://github.com/john850512/LeetCode_Solved/blob/master/709.%20To%20Lower%20Case.md)
 771 |[Jewels and Stones](https://github.com/john850512/LeetCode_Solved/blob/master/771.%20Jewels%20and%20Stones.md)
+804 |[Unique Morse Code Words](https://github.com/john850512/LeetCode_Solved/blob/master/804.%20Unique%20Morse%20Code%20Words.md)
+905 |[Sort Array By Parity](https://github.com/john850512/LeetCode_Solved/blob/master/905.%20Sort%20Array%20By%20Parity.md)
 942 |[DI String Match](https://github.com/john850512/LeetCode_Solved/blob/master/942.%20DI%20String%20Match.md)
+929 |[Unique Email Addresses](https://github.com/john850512/LeetCode_Solved/blob/master/929.%20Unique%20Email%20Addresses.md)
+961 |[N-Repeated Element in Size 2N Array](https://github.com/john850512/LeetCode_Solved/blob/master/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
+977 |[Squares of a Sorted Array](https://github.com/john850512/LeetCode_Solved/blob/master/977.%20Squares%20of%20a%20Sorted%20Array.md)
