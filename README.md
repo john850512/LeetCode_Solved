@@ -55,4 +55,5 @@
 0929 |[Unique Email Addresses](https://github.com/john850512/LeetCode_Solved/blob/master/0929.%20Unique%20Email%20Addresses.md)
 0961 |[N-Repeated Element in Size 2N Array](https://github.com/john850512/LeetCode_Solved/blob/master/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
 0977 |[Squares of a Sorted Array](https://github.com/john850512/LeetCode_Solved/blob/master/0977.%20Squares%20of%20a%20Sorted%20Array.md)
+1018 |[Binary Prefix Divisible By 5](https://github.com/john850512/LeetCode_Solved/blob/master/1018.%20Binary%20Prefix%20Divisible%20By%205.md)
 1019 |[Next Greater Node In Linked List](https://github.com/john850512/LeetCode_Solved/blob/master/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md)
