@@ -20,9 +20,9 @@
 0018 |[4Sum](https://github.com/john850512/LeetCode_Solved/blob/master/0018.%204Sum.md)
 0019 |[Remove Nth Node From End of List](https://github.com/john850512/LeetCode_Solved/blob/master/0019.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 0020 |[Valid Parentheses](https://github.com/john850512/LeetCode_Solved/blob/master/0020.%20Valid%20Parentheses.md)
-0021 |
-0022 |
-0024 |
+0021 |[Merge Two Sorted Lists](https://github.com/john850512/LeetCode_Solved/blob/master/0021.%20Merge%20Two%20Sorted%20Lists.md)
+0022 |[Generate Parentheses](https://github.com/john850512/LeetCode_Solved/blob/master/0022.%20Generate%20Parentheses.md)
+0024 |[Swap Nodes in Pairs](https://github.com/john850512/LeetCode_Solved/blob/master/0024.%20Swap%20Nodes%20in%20Pairs.md)
 0031 |[Next Permutation](https://github.com/john850512/LeetCode_Solved/blob/master/0031.%20Next%20Permutation.md)
 0039 |[Combination Sum](https://github.com/john850512/LeetCode_Solved/blob/master/0039.%20Combination%20Sum.md)
 0040 |[Combination Sum II](https://github.com/john850512/LeetCode_Solved/blob/master/0040.%20Combination%20Sum%20II.md)
@@ -43,7 +43,7 @@
 0530 |[Minimum Absolute Difference in BST](https://github.com/john850512/LeetCode_Solved/blob/master/0530.%20Minimum%20Absolute%20Difference%20in%20BST.md)
 0589 |[N-ary Tree Preorder Traversal](https://github.com/john850512/LeetCode_Solved/blob/master/0589.%20N-ary%20Tree%20Preorder%20Traversal.md)
 0590 |[N-ary Tree Postorder Traversal](https://github.com/john850512/LeetCode_Solved/blob/master/0590.%20N-ary%20Tree%20Postorder%20Traversal.md)
-0617 |
+0617 |[Merge Two Binary Trees](https://github.com/john850512/LeetCode_Solved/blob/master/0617.%20Merge%20Two%20Binary%20Trees.md)
 0700 |[Search in a Binary Search Tree](https://github.com/john850512/LeetCode_Solved/blob/master/0700.%20Search%20in%20a%20Binary%20Search%20Tree.md)
 0701 |[Insert into a Binary Search Tree](https://github.com/john850512/LeetCode_Solved/blob/master/0701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)
 0709 |[To Lower Case](https://github.com/john850512/LeetCode_Solved/blob/master/0709.%20To%20Lower%20Case.md)
@@ -51,7 +51,7 @@
 0804 |[Unique Morse Code Words](https://github.com/john850512/LeetCode_Solved/blob/master/0804.%20Unique%20Morse%20Code%20Words.md)
 0905 |[Sort Array By Parity](https://github.com/john850512/LeetCode_Solved/blob/master/0905.%20Sort%20Array%20By%20Parity.md)
 0942 |[DI String Match](https://github.com/john850512/LeetCode_Solved/blob/master/0942.%20DI%20String%20Match.md)
-0944 |
+0944 |[Delete Columns to Make Sorted](https://github.com/john850512/LeetCode_Solved/blob/master/0944.%20Delete%20Columns%20to%20Make%20Sorted.md)
 0929 |[Unique Email Addresses](https://github.com/john850512/LeetCode_Solved/blob/master/0929.%20Unique%20Email%20Addresses.md)
 0961 |[N-Repeated Element in Size 2N Array](https://github.com/john850512/LeetCode_Solved/blob/master/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
 0977 |[Squares of a Sorted Array](https://github.com/john850512/LeetCode_Solved/blob/master/0977.%20Squares%20of%20a%20Sorted%20Array.md)
