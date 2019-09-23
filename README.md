@@ -2,6 +2,14 @@
 ## Problem Sets
 | Problem No. | Code Links |
 |:--: | :--: | 
+# LeetCode_Solved
+每新寫一題，就立馬更新題號(先題號就好，至少知道寫了那些)，才不會到時候更新readme更新的很辛苦
+
+[花花酱 LeetCode 题目分类](https://docs.google.com/spreadsheets/d/1SbpY-04Cz8EWw3A_LBUmDEXKUMO31DBjfeMoA0dlfIA/edit#gid=972946549)
+
+## Problem Sets
+| Problem No. | Code Links |
+|:--: | :--: | 
 0001 |   [Two Sum](https://github.com/john850512/LeetCode_Solved/blob/master/0001.%20Two%20Sum.md)
 0002 |[Add Two Numbers](https://github.com/john850512/LeetCode_Solved/blob/master/0002.%20Add%20Two%20Numbers.md)
 0003 |[Longest Substring Without Repeating Characters](https://github.com/john850512/LeetCode_Solved/blob/master/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
@@ -31,6 +39,7 @@
 0040 |[Combination Sum II](https://github.com/john850512/LeetCode_Solved/blob/master/0040.%20Combination%20Sum%20II.md)
 0046 |[Permutations](https://github.com/john850512/LeetCode_Solved/blob/master/0046.%20Permutations.md)
 0047 |[Permutations II](https://github.com/john850512/LeetCode_Solved/blob/master/0047.%20Permutations%20II.md)
+0053 |[Maximum Subarray](https://github.com/john850512/LeetCode_Solved/blob/master/0053.%20Maximum%20Subarray.md)
 0077 |[Combinations](https://github.com/john850512/LeetCode_Solved/blob/master/0077.%20Combinations.md)
 0078 |[Subsets](https://github.com/john850512/LeetCode_Solved/blob/master/0078.%20Subsets.md)
 0090 |[Subsets II](https://github.com/john850512/LeetCode_Solved/blob/master/0090.%20Subsets%20II.md)
@@ -52,15 +61,19 @@
 0700 |[Search in a Binary Search Tree](https://github.com/john850512/LeetCode_Solved/blob/master/0700.%20Search%20in%20a%20Binary%20Search%20Tree.md)
 0701 |[Insert into a Binary Search Tree](https://github.com/john850512/LeetCode_Solved/blob/master/0701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)
 0709 |[To Lower Case](https://github.com/john850512/LeetCode_Solved/blob/master/0709.%20To%20Lower%20Case.md)
+0728 |
 0771 |[Jewels and Stones](https://github.com/john850512/LeetCode_Solved/blob/master/0771.%20Jewels%20and%20Stones.md)
 0744 |[Find Smallest Letter Greater Than Target](https://github.com/john850512/LeetCode_Solved/blob/master/0744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.md)
 0801 |[Minimum Swaps To Make Sequences Increasing](https://github.com/john850512/LeetCode_Solved/blob/master/0801.%20Minimum%20Swaps%20To%20Make%20Sequences%20Increasing.md)
 0804 |[Unique Morse Code Words](https://github.com/john850512/LeetCode_Solved/blob/master/0804.%20Unique%20Morse%20Code%20Words.md)
+0832 |
 0852 |[Peak Index in a Mountain Array](https://github.com/john850512/LeetCode_Solved/blob/master/0852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)
+0872 |
 0905 |[Sort Array By Parity](https://github.com/john850512/LeetCode_Solved/blob/master/0905.%20Sort%20Array%20By%20Parity.md)
+0918 |[Maximum Sum Circular Subarray](https://github.com/john850512/LeetCode_Solved/blob/master/0918.%20Maximum%20Sum%20Circular%20Subarray.md)
+0929 |[Unique Email Addresses](https://github.com/john850512/LeetCode_Solved/blob/master/0929.%20Unique%20Email%20Addresses.md)
 0942 |[DI String Match](https://github.com/john850512/LeetCode_Solved/blob/master/0942.%20DI%20String%20Match.md)
 0944 |[Delete Columns to Make Sorted](https://github.com/john850512/LeetCode_Solved/blob/master/0944.%20Delete%20Columns%20to%20Make%20Sorted.md)
-0929 |[Unique Email Addresses](https://github.com/john850512/LeetCode_Solved/blob/master/0929.%20Unique%20Email%20Addresses.md)
 0961 |[N-Repeated Element in Size 2N Array](https://github.com/john850512/LeetCode_Solved/blob/master/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
 0977 |[Squares of a Sorted Array](https://github.com/john850512/LeetCode_Solved/blob/master/0977.%20Squares%20of%20a%20Sorted%20Array.md)
 1017 |[Convert to Base -2](https://github.com/john850512/LeetCode_Solved/blob/master/1017.%20Convert%20to%20Base%20-2.md)
@@ -70,3 +83,16 @@
 1022 |[Sum of Root To Leaf Binary Numbers](https://github.com/john850512/LeetCode_Solved/blob/master/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)
 1023 |[Camelcase Matching](https://github.com/john850512/LeetCode_Solved/blob/master/1023.%20Camelcase%20Matching.md)
 1024 |[Video Stitching](https://github.com/john850512/LeetCode_Solved/blob/master/1024.%20Video%20Stitching.md)
+1025 |
+1026 |
+1027 |
+1028 |
+1029 |
+1030 |
+1184 |
+1185 |
+1186 |
+1189 |
+1190 |
+1191 | [K-Concatenation Maximum Sum](https://github.com/john850512/LeetCode_Solved/blob/master/1191.%20K-Concatenation%20Maximum%20Sum.md)
+1200 |
